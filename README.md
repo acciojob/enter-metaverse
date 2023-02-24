@@ -1,11 +1,10 @@
-# Increment Counter
+# Enter Metaverse
+Change the content in the “p” tag using javascript that updates the string “Enter the Metaverse” to “Entered Metaverse” on click of a button.
 
-Write a JavaScript program that creates an increment counter at the click of a button. The webpage should look like: 
-
-![increment-counter](https://user-images.githubusercontent.com/78275204/221237647-4214ce15-bb95-4c83-b3cd-d31debd0df9a.gif)
+![enter-metaverse](https://user-images.githubusercontent.com/78275204/221270781-581d60ca-0d52-4be3-8909-1ca8ccc29de1.gif)
 
 #### Acceptance Criteria:
-- The counter should be in a `p` tag with the id `counter`
-- The counter's initial value should be `0`
-- The button should have the id `incrementBtn`
-- Upon pressing the `Increment` button, an alert should pop up which displayed the un-incremented value. 
+- The `p` tag should have the id `status`
+- The `p` tag's initial text should be "Enter the Metaverse"
+- The button should have the id `enterBtn`
+- Upon pressing the `Enter` button, the text of `p` tag should be changed to "Entered Metaverse" in a `h1` tag.
